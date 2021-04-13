@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">praktpm3</string>
+    <string name="movies_name">Movies Name</string>
+    <string name="detail">Detail</string>
+    <string name="share">Share</string>
+    <string name="preview">Preview</string>
+</resources>
